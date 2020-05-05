@@ -1,29 +1,34 @@
 # vue-dynamic-layout-demo
 
-## Project setup
+Dynamic different layout changes with easily way
+
+## Getting Started
+
+### Prerequisites
+
 ```
-yarn install
+npm install
+
+or
+
+yarn
 ```
 
-### Compiles and hot-reloads for development
+## Run Application
+
 ```
+npm run serve
+
+or
+
 yarn run serve
 ```
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+## Built With
 
-### Run your tests
-```
-yarn run test
-```
+* [Vue](https://vuejs.org/) - The web framework used
+* [Vue Cli](https://cli.vuejs.org/) - Project template
 
-### Lints and fixes files
-```
-yarn run lint
-```
+## License
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This project is licensed under the MIT License
